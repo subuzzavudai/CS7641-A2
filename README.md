@@ -1,6 +1,6 @@
 # CS7641-A2
 
-Install the requirements mentioned in the requirement.txt
+Install the requirements mentioned in the requirement.txt present in the Randomized Optimization folder.
 
 #Neural Networks
 
